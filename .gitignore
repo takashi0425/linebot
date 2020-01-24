@@ -22,3 +22,10 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+<your_venv>
+__pycache__
+staticfiles
+local_settings.py
+db.sqlite3
+*.py[co]
